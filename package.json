@@ -1,0 +1,28 @@
+{
+  "name": "liri-node-app-",
+  "version": "1.0.0",
+  "description": "liri.bot",
+  "main": "liri.js",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthach010/liri-node-app-.git"
+  },
+  "keywords": [
+    "pineapple"
+  ],
+  "author": "Christina Thach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cthach010/liri-node-app-/issues"
+  },
+  "homepage": "https://github.com/cthach010/liri-node-app-#readme"
+}
